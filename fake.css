@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* line 2, ../sass/fake.scss */
+body .wrap {
+  display: block;
+  height: 500vh;
+  background-image: url("Мобил.png");
+  background-size: contain;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
